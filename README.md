@@ -1,4 +1,4 @@
-# flower102-classfication-with-Resnet
+# flower102-classification-with-Resnet
 This project is to a classification task with Resnet 
 
 Dataset:  
